@@ -1,1 +1,1 @@
-# Cogno-Rise-Info-Tech-Internship
+Data Analyst Projects
